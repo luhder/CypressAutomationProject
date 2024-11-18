@@ -2,7 +2,7 @@
 
 **Project Overview**
 
-This project involves the creation and execution of a comprehensive test plan for the OrangeHRM system, which is an open-source HR management tool. The primary goal is to ensure that all critical features, navigation flows, and security measures are functioning correctly.
+This project involves the creation and execution of a comprehensive cypress testing for the OrangeHRM system, which is an open-source HR management tool. The primary goal is to ensure that all critical features, navigation flows, and security measures are functioning correctly.
 
 **Introduction**
 
