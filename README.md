@@ -6,7 +6,7 @@ This project involves the creation and execution of a comprehensive cypress test
 
 **Introduction**
 
-This document details the test plan created to validate the functionalities of OrangeHRM. It includes functional and security testing as well as verification of user flows.
+This  test created to validate the functionalities of OrangeHRM. It includes functional and security testing as well as verification of user flows.
 
 **Objective**
 
@@ -22,11 +22,9 @@ The scope includes the following key areas of the OrangeHRM system:
 
 -CRUD operations on employee and user data
 
--Security validation (SQL injection prevention)
-
 -Page load performance
 
--Testable Features
+**Testable Features**
 
 -User login
 
@@ -37,8 +35,6 @@ The scope includes the following key areas of the OrangeHRM system:
 **Testing Approach**
 
 -Functional Testing: Validate user workflows and expected behaviors.
-
--Security Testing: Test against common vulnerabilities (e.g., SQL injection).
 
 -Performance Testing: Verify that the pages load within acceptable time limits.
 
